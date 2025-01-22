@@ -2,7 +2,7 @@ Al usar esta aplicación aceptas lo siguiente.
 
 La aplicación se proporciona "tal cual", sin garantía de ningún tipo. 
 
-La aplicación está desarrollada independientemente de cualquier organismo público. Todos los datos mostrados por la app se obtienen de fuentes de datos públicas disponibles en las páginas web de la Generalitat Valenciana. No es una aplicación oficial y sus datos pueden no ser correctos. Comprueba siempre los datos en las fuentes oficiales.
+La aplicación está desarrollada independientemente de cualquier organismo público. Todos los datos mostrados por la app se obtienen de fuentes de datos públicas disponibles en las páginas web de la administración. No es una aplicación oficial y sus datos pueden no ser correctos. Comprueba siempre los datos en las fuentes oficiales.
 
 La aplicación no guarda ningún dato introducido por ti.
 
